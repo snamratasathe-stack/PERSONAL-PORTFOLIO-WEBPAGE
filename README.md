@@ -10,6 +10,8 @@
 *DURATION*:4 WEEKS
 
 *MENTOR*:NEELA SANTOSH
+output
+<img width="681" height="444" alt="Image" src="https://github.com/user-attachments/assets/e808cdce-3ba1-4d6e-8e02-3bba06ca9049" />
 
 *DESCRIPTION*:The Personal Portfolio Webpage is a front-end web project designed to showcase a developer’s skills, projects, and contact information in a professional and organized manner. The primary purpose of this webpage is to act as a digital resume and personal branding tool. In today’s competitive job market, a portfolio website plays a crucial role in helping recruiters and employers evaluate a candidate’s practical abilities beyond traditional resumes.
 
